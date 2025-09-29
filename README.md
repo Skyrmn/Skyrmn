@@ -1,4 +1,4 @@
-# Hi!
+# Hi! :fire:
 <
 Junior Linuxero
 
@@ -17,16 +17,20 @@ Las tecnologias que estoy aprendiendo son:
 
 ## Metas antes de terminar el 2025 :sparkles:
 
+---
+- [ ] **Aprender a dibujar**
+    - [ ] Dibujo de perspectivas
+    - [ ] Sombreado básico
 
-## Metas antes de terminar el 2025 ✨
+- [ ] **Saber LaTeX**
+    - [ ] Entender la sintaxis
 
-| Metas | Progreso |
-| :--- | :--- |
-| **Aprender a dibujar** | - [ ] Dibujo de perspectivas - [ ] Sombreado básico |
-| **Saber LaTeX** | - [ ] Entender la sintaxis |
-| **Hablar inglés/Portugués** | - [ ] Estudiar 30 minutos al día |
-| **Saber a qué área me quiero dedicar de la programación** | - [x] ... |
-| **Subir mi primer gran proyecto** 😼 | - [ ] ... |
+- [ ] **Hablar inglés/Portugués**
+    - [ ] Estudiar 30 minutos al día
+
+- [x] **Saber a qué área me quiero dedicar de la programación**
+
+- [ ] **Subir mi primer gran proyecto** :tada: 
 
 ...
 
